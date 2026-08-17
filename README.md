@@ -20,7 +20,7 @@
 
 - ⚙️ Smart projects that combine mechanical movement and simple control systems
 - 🛠️ Mechanical design and 3D printing for simple, functional solutions
-- 💡 Exploring electronics, web tools, and computer-based projects
+- 💡 Interested in using electronics and simple digital tools to create practical solutions
 
 ## 🚀 Current Journey
 
