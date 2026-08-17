@@ -18,23 +18,20 @@
 
 ## 🧩 What I Build
 
-- 🤖 Robotics projects from design to real testing
-- 🛠️ Mechanical parts and functional 3D-printed prototypes
+- ⚙️ Smart projects that combine mechanical movement, electronics, and simple control systems
+- 🛠️ Mechanical design and 3D printing for simple, functional solutions
 - ⚡ Electronics, Arduino, sensors, and motor control
-- 💻 Software tools that support real engineering work
+- 💻 Exploring web tools through personal projects
 
 ## 🚀 Current Journey
 
-> Completing Smart Methods Summer Training 2026  
-> Building stronger independent engineering projects and a real portfolio.
+> After completing my second year in Mechanical Engineering, I am building a stronger focus on thermal engineering, energy systems, and practical engineering work.  
+> I have two years ahead to deepen my knowledge and turn it into better projects.
 
 ## 🏗️ Featured Work
 
 - **Smart Methods Summer Training 2026**  
-  Hands-on work across Mechanical Engineering, Electronics & IoT, AI & ROS, and Web & Mobile.
-
-- **Robot Dog Project**  
-  Designed, assembled, programmed, and tested a four-servo robot dog.
+  Nearly completed hands-on training across Mechanical Engineering, Electronics & IoT, AI & ROS, and Web & Mobile — including mechanical design, Arduino-based systems, a four-servo robot dog project, and software experiments.
 
 ---
 
