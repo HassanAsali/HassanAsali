@@ -24,8 +24,8 @@
 
 ## 🚀 Current Journey
 
-> After completing my second year in Mechanical Engineering, I am building a stronger focus on thermal engineering, energy systems, and practical engineering work.  
-> I have two years ahead to deepen my knowledge and turn it into better projects.
+> Continuing to build my skills in Mechanical Engineering through projects and solving practical solutions .  
+> Currently developing a stronger interest in thermal engineering, energy systems, and functional design.
 
 ## 🏗️ Featured Work
 
