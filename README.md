@@ -30,7 +30,7 @@
 ## 🏗️ Featured Work
 
 - **Smart Methods Summer Training 2026**  
-  Nearly completed hands-on training across Mechanical Engineering, Electronics & IoT, AI & ROS, and Web & Mobile — including mechanical design, Arduino-based systems, a four-servo robot dog project, and software experiments.
+  Nearly completed hands-on training across Mechanical Engineering, Electronics & IoT, AI foundations, and Web & Mobile — including mechanical design, Arduino-based systems, a four-servo robot dog project, and software experiments.
 
 ---
 
