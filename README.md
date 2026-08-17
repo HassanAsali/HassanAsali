@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hassan Asali
 
-<!--
-**HassanAsali/HassanAsali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mechanical Engineering Student at King Abdulaziz University.
 
-Here are some ideas to get you started:
+I build practical engineering projects combining mechanical design, robotics, electronics, 3D printing, and software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+
+- Robotics and mechanical design
+- 3D printing and functional prototypes
+- Practical engineering projects
+
+## Featured Work
+
+- [Smart Methods Summer Training 2026](https://github.com/HassanAsali/Smart-Methods-Summer-Training-2026)  
+  Hands-on projects across Mechanical Engineering, Electronics & IoT, AI & ROS, and Web & Mobile.
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/hassan-asali-1a823a37b/)
+- [X / Twitter](https://x.com/z7soz)
