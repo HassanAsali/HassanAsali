@@ -18,10 +18,9 @@
 
 ## 🧩 What I Build
 
-- ⚙️ Smart projects that combine mechanical movement, electronics, and simple control systems
+- ⚙️ Smart projects that combine mechanical movement and simple control systems
 - 🛠️ Mechanical design and 3D printing for simple, functional solutions
-- ⚡ Electronics, Arduino, sensors, and motor control
-- 💻 Exploring web tools through personal projects
+- 💡 Exploring electronics, web tools, and computer-based projects
 
 ## 🚀 Current Journey
 
