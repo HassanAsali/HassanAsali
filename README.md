@@ -34,6 +34,4 @@
 
 ---
 
-<p align="center">
-  <i>Learning by building. Improving by testing.</i>
 </p>
