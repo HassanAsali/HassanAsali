@@ -2,7 +2,7 @@
 
 <p align="center">
   Mechanical Engineering Student at King Abdulaziz University<br>
-  Intersted in practical projects, 3D printing.
+  Intersted in practical projects and 3D printing.
 </p>
 
 <p align="center">
