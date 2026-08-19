@@ -2,7 +2,7 @@
 
 <p align="center">
   Mechanical Engineering Student at King Abdulaziz University<br>
-  Building practical projects in robotics, 3D printing, electronics, and software.
+  Intersted in practical projects, 3D printing.
 </p>
 
 <p align="center">
